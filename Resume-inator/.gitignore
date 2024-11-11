@@ -1,0 +1,10 @@
+# environmental files
+venv/
+.venv/
+*.env
+__pycache__/
+
+# user dependant input/output files
+input/job_desc.txt
+input/resume.txt
+output/

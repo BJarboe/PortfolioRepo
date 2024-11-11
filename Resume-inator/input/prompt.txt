@@ -1,0 +1,11 @@
+Using the provided plain text resume and job description, convert the resume into an HTML format based loosely on the given template. Adjust, rephrase, and omit content as needed to optimize it for the specific job and company. 
+Follow these rules carefully: 
+Use the base HTML structure as a general format; it does not need to be strictly followed. 
+Ensure there are no placeholder text elements left in the final output. 
+Output only the HTML result with no code block markers, chats, or extra text before or after the HTML. 
+Include only relevant, advantageous information from the resume to match the job’s requirements and company values. 
+Prioritize keywords the company’s ATS may search for, including technical skills, job-relevant terminology, and commonly required soft skills. 
+Select only real content from the resume; do not invent projects or job experiences, as template examples are for structure only. 
+Add essential soft skills or tools that most candidates could learn quickly, if directly relevant. 
+Insert clear comments to improve readability within the HTML. 
+Craft a unique objective statement that aligns with the job role and mentions the company name. Avoid any special characters that might not display correctly in basic HTML.
