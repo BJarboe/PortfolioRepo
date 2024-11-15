@@ -1,7 +1,6 @@
 # GitHub Portfolio
 
-Welcome to my GitHub portfolio! This repository showcases a collection of projects that I've worked on, covering a range of technologies and applications. Each project has its own folder with detailed documentation, code, and examples.
-
+Welcome to my GitHub portfolio! This repository showcases a collection of projects that I've worked on, covering a range of technologies and applications.
 ## Table of Contents
 
 - [Introduction](#introduction)
