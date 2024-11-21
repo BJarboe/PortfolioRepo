@@ -47,7 +47,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ### YouTube Video Downloader App / Bot
 
 **Folder:** [YouTube HUB](YouTube%20HUB/)  
-**Description:** Developed a lightweight GUI application that enables users to download YouTube videos by providing it's link.  AFter completion of the app, functionality was integrated as a Discord bot that directly interacts with users.
+**Description:** Developed a lightweight GUI application that enables users to download YouTube videos by providing it's link.  After completion of the app, functionality was integrated as a Discord bot that directly interacts with users.
 **Key Features:**
 
 - Python + PyTube
