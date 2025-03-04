@@ -4,10 +4,11 @@ Welcome to my GitHub portfolio! This repository showcases a collection of projec
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Freelance/Personal Projects](#projects)
-  - [1: AI Resume Optimizer](#ai-powered-resume-optimizer)
-  - [2: Unity Game](#unity-game-jam-project)
-  - [3: YouTube Downloader](#youtube-video-downloader-app--bot)
+- [Freelance/Personal Projects](#freelancepersonal-projects)
+  - [1: Full Stack Text-To-Image Generator](#full-stack-text-to-image-generator)
+  - [2: AI Resume Optimizer](#ai-powered-resume-optimizer)
+  - [3: Unity Game](#unity-game-jam-project)
+  - [4: YouTube Downloader](#youtube-video-downloader-app--bot)
 - [Contact](#contact)
 
 ---
@@ -20,6 +21,17 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 
 ##  Freelance/Personal Projects
 
+### Full Stack Text-To-Image Generator
+**Repo:** [ai-image-generator](https://github.com/BJarboe/ai-image-generator/)  
+**Description:** Developed a Full Stack Web Application utilizing OpenAI's DALL-E 3 for image generation, highlighting proficiency in frontend and backend development, API integration, asynchronous programming, state management, and error handling, while demonstrating the creation of a responsive UI and effective server-client communication.
+**Tools/Technologies:**
+- Vanilla Javascript/HTML/CSS Frontend
+- Node/Express.js Backend
+- OpenAI API
+- RESTful APIs
+- Thunder Client
+
+---
 ### AI-Powered Resume Optimizer
 
 **Folder:** [Resume-inator](Resume-inator/)  
@@ -34,7 +46,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 
 ### Unity Game Jam Project
 
-**Folder:** [Ext Repo](https://github.com/BJarboe/596FinalGame/tree/main)
+**Folder:** [FinalGame](https://github.com/BJarboe/596FinalGame/tree/main)
 **Description:** Contributed development to a Unity 3D horror game complete with unique parkour-based player-movement mechanics, a state-based AI enemy, scripted events and cutscenes, currated developer tools and management scripts, and original GUI/menu designs.
 **Tools/Technologies:**
 
